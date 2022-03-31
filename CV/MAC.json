@@ -1,0 +1,322 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Ruben",
+      "surnames": "Navarro Panisello",
+      "title": "Creative Engineer",
+      "description": "Problem solver. I like creating and constructing with the help of technology. I love learning and discovering new things. Enthusiastic about finding simple solutions to complex problems and focused on delivering them efficiently and professionally.",
+      "avatar": {
+        "alt": "1646213064637.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/65bec309-46e9-47b9-98e0-0800a81af2bc_1646213064637.png"
+      },
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/rubennp91/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/rubennp91"
+      },
+      {
+        "type": "other",
+        "URL": "https://medium.com/@ruben.np91"
+      },
+      {
+        "type": "other",
+        "URL": "https://hackaday.io/rubenlosud"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "My hobbies",
+        "fact": "Retro console modding, guitar playing, IoT hacking, playing videogames, learning about videogame design, music, movies, nature"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Siemens Rail Automation"
+        },
+        "roles": [
+          {
+            "name": "Validation and Product Integration Engineer",
+            "startDate": "2020-11-01",
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "In charge of testing and integration of real equiment for ERTMS systems. Experience in Intelorkcing, Radio Block Center, European Vital Computer (Eurocabin), key management, Euroloop and others.\n\nMy taks consist of: automatization of processes, test environment design, creating strategies for testing, hardware assembling for lab testing, supervision of processes carried out by colleagues. As for documentation: writing and revision of documentation along the whole V&V cycle, writing of documentation for specific cases required by clients, preparation of presentations and courses for colleagues and clients.\n\nDuring my time in Siemens, I worked with people from Spain but also with people from other parts of the world: England, Germany, Finland..."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              },
+              {
+                "name": "Cisco",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Expleo Group"
+        },
+        "roles": [
+          {
+            "name": "Validation Software Engineer",
+            "startDate": "2017-09-01",
+            "finishDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "Validation Engineer for Railway Safety Software. From requirement validation through test creation to safety documentation checking, as well as control and improvement of validation processes according to the standards EN 50128, EN 50126 and EN 50129. The tasks related to this job are, among others: management of project documentation, design and development of new tools to improve efficiency, design and reviewing of documentation and requirements, design and maintenance of electronic equipment related with validation, management of team tasks as well as organizing the workload among the team members."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Excel",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universitat Rovira i Virgili"
+        },
+        "roles": [
+          {
+            "name": "Project Assistant",
+            "startDate": "2017-06-01",
+            "finishDate": "2017-08-01",
+            "challenges": [
+              {
+                "description": "Project assitant with assigned tasks of automation of a reactor using TIA Portal and PLC S7-1200. Communication with MATLAB using TCP/IP protocols using TIA Portal. Instrumentation of the reactor and control of the actuator. Installation of the PLC on-site."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Matlab",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universitat Rovira i Virgili"
+        },
+        "roles": [
+          {
+            "name": "IT Assistant",
+            "startDate": "2015-09-01",
+            "finishDate": "2017-08-01",
+            "challenges": [
+              {
+                "description": "Assitance to the IT department of the Rovira i Virgili University in any task where support is required: computer repairing and maintenance, server and network maintenance, inventory administration, audiovisual control, web management..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "MCWrapped",
+          "description": "MC Wrapped is a website that is intented for Minecraft users and it is used to present statistics in a fun way. The website is developed and deployed entirely by me. Done with ReactJS and Flask, it uses user input to create images and videos that are processed with Python with the help of the Python Imaging Library and Moviepy (a python video editor).\n\nThe deployment is done on a VPS server running Ubuntu using nginx, Gunicorn and Redis.",
+          "URL": "https://mcwrapped.online/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-12-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "Ubuntu",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      },
+      {
+        "name": "Catalan"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Arduino",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VMWare",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Batch",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Industrial Eelctronics and Automation Engineering",
+        "startDate": "2009-09-01",
+        "finishDate": "2017-06-01",
+        "institution": {
+          "name": "Universitat Rovira i Virgili",
+          "description": "Degree in Industrial Electronics and Automation Engineering. This branch of engineering deals with industrial electronic systems and electronic equipment. Some of the skills included in this studies are:\n\n- Analog Electronics: control circuits, filters, voltage regulators, general circuit design and analysis.\n- Power Electronics: DC-DC and AC-DC transformers, motor control.\n- Digital Electronics: microcontroller programming (C, C++, Assembler) and embedded systems (Atmel, Microchip, Nordic semiconductor, Raspberry Pi), PCB design (OrCAD and DesignSpark).\n- Automation: system automation and PLCs (Siemens S7-1200, S7-300, TCPIP comms, Analog systems, Instrumentation)\n- Technical Documentation\n- Problem resolution\n- Math/Statistics\n- Teamwork\n\nThis studies are recognized by the AQU (Quality Agency for the University System in Catalunya) and are accredited as an EUR-ACE Engineering Programme.​​"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/rubennp91/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
