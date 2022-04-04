@@ -41,6 +41,21 @@
         "topic": "My hobbies",
         "fact": "Retro console modding, guitar playing, IoT hacking, playing videogames, learning about videogame design, music, movies, nature"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "Daily ethical design",
+        "type": "other",
+        "URL": "https://alistapart.com/article/daily-ethical-design/",
+        "authors": [
+          {
+            "name": "Lennart",
+            "surnames": "Overkamp",
+            "title": "Author"
+          }
+        ],
+        "summary": "An article about ethical design, explaining what it is, how it can be practiced and its challenges."
+      }
     ]
   },
   "experience": {
