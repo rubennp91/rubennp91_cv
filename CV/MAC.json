@@ -55,6 +55,19 @@
           }
         ],
         "summary": "An article about ethical design, explaining what it is, how it can be practiced and its challenges."
+      },
+      {
+        "title": "Instant Gramification",
+        "type": "other",
+        "URL": "https://99percentinvisible.org/episode/instant-gramification/",
+        "authors": [
+          {
+            "name": "Emmet",
+            "surnames": "FitzGerald",
+            "title": "Author"
+          }
+        ],
+        "summary": "Instant gramification describes how social networks in general and instagram in particular are changing architecture around the world."
       }
     ]
   },
